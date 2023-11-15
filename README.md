@@ -1,5 +1,5 @@
 Write Function in JavaScript to Insert Data from Node-RED to SQL Table
-🗒️ Answer
+#🗒️ Answer
 To insert data from Node-RED to an SQL table using JavaScript, you can use the "Function" node along with the appropriate SQL node for database interaction. Below is a basic example of a JavaScript function in a Node-RED "Function" node that prepares and sends an SQL INSERT query:
 // Example Function Node Code
 var data = msg.payload;  // Assuming msg.payload contains the data to be inserted
