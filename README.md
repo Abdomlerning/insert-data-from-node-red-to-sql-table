@@ -1,0 +1,1 @@
+# insert-data-from-node-red-to-sql-table
